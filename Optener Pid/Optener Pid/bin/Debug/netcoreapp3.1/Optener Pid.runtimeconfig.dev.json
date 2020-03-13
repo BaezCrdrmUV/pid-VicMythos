@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mythos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mythos\\.nuget\\packages"
+    ]
+  }
+}

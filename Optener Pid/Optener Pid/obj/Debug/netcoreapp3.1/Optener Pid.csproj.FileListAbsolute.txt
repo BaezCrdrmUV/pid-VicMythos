@@ -1,0 +1,11 @@
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\bin\Debug\netcoreapp3.1\Optener Pid.exe
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\obj\Debug\netcoreapp3.1\Optener Pid.csprojAssemblyReference.cache
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\obj\Debug\netcoreapp3.1\Optener Pid.AssemblyInfoInputs.cache
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\obj\Debug\netcoreapp3.1\Optener Pid.AssemblyInfo.cs
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\bin\Debug\netcoreapp3.1\Optener Pid.deps.json
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\bin\Debug\netcoreapp3.1\Optener Pid.runtimeconfig.json
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\bin\Debug\netcoreapp3.1\Optener Pid.runtimeconfig.dev.json
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\bin\Debug\netcoreapp3.1\Optener Pid.dll
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\bin\Debug\netcoreapp3.1\Optener Pid.pdb
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\obj\Debug\netcoreapp3.1\Optener Pid.dll
+C:\Users\Mythos\Documents\desarollo de sistemas en red\Optener Pid\Optener Pid\obj\Debug\netcoreapp3.1\Optener Pid.pdb
